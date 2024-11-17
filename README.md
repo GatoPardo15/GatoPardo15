@@ -3,4 +3,3 @@
 - 📫 **Reach me on Discord: yellowcarrot15.**
 - 🔎 **Secret service intern (don't tell anyone).**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GatoPardo15&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
